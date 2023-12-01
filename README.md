@@ -1,3 +1,3 @@
 # File_transfer
-##file transfer build in python via socket
-###simple to use
+## file transfer build in python via socket
+### simple to use
